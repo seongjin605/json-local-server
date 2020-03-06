@@ -1,0 +1,11 @@
+{
+  "searchCarList": [
+    {
+      "id": "yourId",
+      "name": "yourName",
+      "description": "hello this is local server for json",
+      "regDtime": "2020-01-07T16:09:22",
+      "modDtime": "2020-02-17T10:30:00"
+    }
+  ]
+}
