@@ -1,0 +1,14 @@
+{
+  "name": "json-local-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/seongjin605/json-local-server.git",
+  "author": "preciouStar",
+  "license": "MIT",
+  "scripts": {
+    "start": "json-server --watch ./src/dummy.json --port 5000"
+  },
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  }
+}

@@ -1,5 +1,12 @@
 # json-local-server
 
-### 환경설정 및 사용법
+## 현재 가격 요청 
+http://localhost:5000/current
 
-[https://github.com/seongjin605/json-server](https://github.com/seongjin605/json-server)
+## 예측 가격 요청
+http://localhost:5000/predict
+
+## JSON 로컬 서버 시작
+```bash
+$ yarn start
+```
