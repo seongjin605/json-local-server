@@ -6,7 +6,7 @@
   "author": "preciouStar",
   "license": "MIT",
   "scripts": {
-    "start": "json-server --watch ./src/dummy.json --port 5000"
+    "start": "json-server --watch ./src/dummy.json --host 192.168.0.18 --port 5000"
   },
   "devDependencies": {
     "json-server": "^0.16.1"
